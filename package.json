@@ -1,0 +1,31 @@
+{
+  "name": "swift-temp-url",
+  "version": "1.0.0",
+  "description": "Returns an expiring download URL for a file stored in Object Storage.",
+  "main": "swift-temp-url.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eswak/swift-temp-url"
+  },
+  "keywords": [
+    "swift",
+    "temporary",
+    "url",
+    "swift-temp-url",
+    "object storage",
+    "openstack",
+    "open stack"
+  ],
+  "author": "@eswak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eswak/swift-temp-url/issues"
+  },
+  "homepage": "https://github.com/eswak/swift-temp-url",
+  "dependencies": {
+    "crypto": "0.0.3"
+  }
+}
