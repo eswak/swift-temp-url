@@ -25,7 +25,5 @@
     "url": "https://github.com/eswak/swift-temp-url/issues"
   },
   "homepage": "https://github.com/eswak/swift-temp-url",
-  "dependencies": {
-    "crypto": "0.0.3"
-  }
+  "dependencies": {}
 }
